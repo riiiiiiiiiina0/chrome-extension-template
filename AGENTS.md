@@ -8,6 +8,7 @@
 
 - Use **vanilla JavaScript** (no TypeScript).
 - **No build steps**; plain source files only.
+- Use **JSDoc** to type all JavaScript source code.
 - Use **single quotes** for all string literals.
 - Follow clear, readable code conventions (avoid unnecessary abstractions).
 
